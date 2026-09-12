@@ -1,0 +1,5 @@
+c2html
+a.out
+*.html
+input.c
+*.o
